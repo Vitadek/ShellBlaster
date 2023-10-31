@@ -1,0 +1,3 @@
+/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

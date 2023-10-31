@@ -1,0 +1,1 @@
+/sbin/c++ CMakeFiles/ShellBlaster.dir/src/main.cpp.o -o ShellBlaster  _deps/ftxui-src/libftxui-screen.a _deps/ftxui-src/libftxui-dom.a _deps/ftxui-src/libftxui-component.a _deps/ftxui-src/libftxui-dom.a _deps/ftxui-src/libftxui-screen.a 
