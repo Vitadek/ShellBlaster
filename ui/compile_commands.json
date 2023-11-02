@@ -1,0 +1,1046 @@
+[
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/box.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/color.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/color_info.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/screen.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/string.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/terminal.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/automerge.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/blink.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/bold.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/border.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/canvas.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/color.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/dbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/dim.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flex.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/focus.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/frame.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/gauge.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/graph.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/hbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/inverted.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/node.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/reflect.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/separator.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/size.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/spinner.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/table.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/text.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/underlined.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/util.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/vbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/animation.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/button.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/button.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/button.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/catch_event.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/checkbox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/collapsible.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/component.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/component.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/component.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/component_options.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/container.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/container.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/container.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/dropdown.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/event.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/event.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/event.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/hoverable.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/input.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/input.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/input.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/loop.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/maybe.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/menu.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/modal.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/radiobox.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/renderer.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/slider.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/util.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/util.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/util.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/component.dir/src/ftxui/component/window.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/window.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/src/ftxui/component/window.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o"
+  },
+  {
+    "arguments": [
+      "/sbin/c++",
+      "-I/home/protoman/Programs/TestingDir/TestBranch/ui/src",
+      "-isystem",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/_deps/ftxui-src/include",
+      "-c",
+      "-o",
+      "CMakeFiles/ShellBlaster.dir/src/main.cpp.o",
+      "/home/protoman/Programs/TestingDir/TestBranch/ui/src/main.cpp"
+    ],
+    "directory": "/home/protoman/Programs/TestingDir/TestBranch/ui",
+    "file": "/home/protoman/Programs/TestingDir/TestBranch/ui/src/main.cpp",
+    "output": "/home/protoman/Programs/TestingDir/TestBranch/ui/CMakeFiles/ShellBlaster.dir/src/main.cpp.o"
+  }
+]

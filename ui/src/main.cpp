@@ -18,30 +18,39 @@
 
 using namespace ftxui;
 int main() {
-//  std::vector<std::string> options = {
-//    "Option 1",
-//    "Option 2",
-//    "Option 3",
-//  };
+  std::vector<std::string> ssh_options = {
+    "SSH Connection 1",
+    "SSH Connection 2",
+    "SSH Connection 3",
+  };
+  std::string ssh_placeholder_text = "Place Holder Text: ****SSH_Connection*****"
   auto screen = ScreenInteractive::TerminalOutput();
-  int selected = 0;
-  MenuOption option;
-  option.on_enter = screen.ExitLoopClosure();
-  auto menu = Container::Vertical(
-    {
-      Renderer([]{return separator();}),
-      MenuEntry("Option 1"),
-      MenuEntry ("Option 2"),
-      MenuEntry("Option 3"),
-      Renderer([]{return separator();}),
-    },
-    &selected);
-  
-  auto renderer = Renderer(menu, [&]{
+  int ssh_selected = 0;
+  MenuOption select;
+  select.on_enter = screen.ExitLoopClosure();
+  Component ssh_menu = 
+    Menu(&ssh_options, &ssh_selected, select);
+//  auto menu = Container::Vertical(
+//    {
+//
+//    },
+//    &ssh_selected);
+  Component ssh_connection_container = Container::Vertical({
+    ssh_placeholder_text,
+  });
+  Component ssh_container = Container::Vertical({
+    ssh_menu
+  });
+  Component container = Container::Horizontal({
+    ssh_container,
+    ssh_connection_container,
+  });
+
+
+  auto renderer = Renderer(ssh_container, [&]{
     return vbox({
-      hbox(text("Selected ="), text(std::to_string(selected))),
-        separator(),
-      menu->Render() | frame | size(HEIGHT, LESS_THAN, 10),
+      hbox(text("Selected ="), text(std::to_string(ssh_selected))),
+      ssh_menu->Render() | frame | size(HEIGHT, LESS_THAN, 10),
     }) | border;
   });
   screen.Loop(renderer);
